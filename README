@@ -1,7 +1,7 @@
 # MyVoiceTranslator
 
 I wanted to make a little project working with a couple of AI's, with MvT you can talk directly
-to the microphone or use TTS and it will translate and play what you said in Japanese, with the use of the following AI's:
+to the microphone or use TTS and it will translate and play what you said in Japanese with the use of the following AI's:
 
 1. [LibreTranslate] a AI powered translation tool.
 2. [WhisperAI]  a speech recognition model from OpenAi.
